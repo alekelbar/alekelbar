@@ -7,7 +7,7 @@
 
 - 👨‍💻 Please, check my profile to view a few of projects that I'm working: [https://github.com/alekelbar/](https://github.com/alekelbar/)
 
-- 📫 Do you meed something? **Alekelbar.personal@gmail.com**
+- 📫 Do you need help? **Alekelbar.personal@gmail.com**
 
 ## 👨‍🎓 About Me
 
