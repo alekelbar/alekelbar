@@ -49,5 +49,6 @@ I'm studying the rest of bachelor degree, 3 of 4 years were completed.
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
     <a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="mongodb" width="40" height="40"/> 
+    <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
 </p>
