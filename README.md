@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekelbar&label=Profile%20views&color=0e75b6&style=flat" alt="alekelbar" /> </p>
 
-- I’m a front-end developer with React.js and it's environment
+- I’m a FullStack developer with React.js and it's environment
 
 - 👨‍💻 Please, check my profile to view a few of projects that I'm working: [https://github.com/alekelbar/](https://github.com/alekelbar/)
 
