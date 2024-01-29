@@ -1,3 +1,5 @@
+DESACTUALIZADO / Outdated
+
 <h1 align="center">Welcome to my profile! I'm Alexander @alekelbar</h1>
 <h3 align="center">Student of information systems engineering at <a href="https://www.una.ac.cr/">UNA</a>.</h3>
 
